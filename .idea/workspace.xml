@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd04e123-8aaf-4942-a88c-0a16aa630a25" name="Changes" comment="arraylist implementation of stack">
-      <change afterPath="$PROJECT_DIR$/src/LinkedListImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fd04e123-8aaf-4942-a88c-0a16aa630a25" name="Changes" comment="linked list implementation of stack">
+      <change afterPath="$PROJECT_DIR$/src/LibraryImplementation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +35,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedListImplementation">
+  <component name="RunManager" selected="Application.LibraryImplementation">
     <configuration name="ArrayListImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListImplementation" />
+      <module name="Stacks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LibraryImplementation" />
       <module name="Stacks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryImplementation" />
         <item itemvalue="Application.LinkedListImplementation" />
         <item itemvalue="Application.ArrayListImplementation" />
         <item itemvalue="Application.Main" />
@@ -89,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653020541121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="linked list implementation of stack">
+      <created>1653139243118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653139243118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array implementation of stack" />
     <MESSAGE value="arraylist implementation of stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="arraylist implementation of stack" />
+    <MESSAGE value="linked list implementation of stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list implementation of stack" />
   </component>
 </project>
