@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd04e123-8aaf-4942-a88c-0a16aa630a25" name="Changes" comment="linked list implementation of stack">
-      <change afterPath="$PROJECT_DIR$/src/LibraryImplementation.java" afterDir="false" />
+    <list default="true" id="fd04e123-8aaf-4942-a88c-0a16aa630a25" name="Changes" comment="library implementation of stack using ArrayDeque">
+      <change afterPath="$PROJECT_DIR$/src/practice/BalancedParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +36,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LibraryImplementation">
+  <component name="RunManager" selected="Application.BalancedParanthesis">
     <configuration name="ArrayListImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListImplementation" />
       <module name="Stacks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BalancedParanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.BalancedParanthesis" />
+      <module name="Stacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalancedParanthesis" />
         <item itemvalue="Application.LibraryImplementation" />
         <item itemvalue="Application.LinkedListImplementation" />
         <item itemvalue="Application.ArrayListImplementation" />
@@ -103,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653139243118</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="library implementation of stack using ArrayDeque">
+      <created>1653139737701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653139737701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +143,7 @@
     <MESSAGE value="array implementation of stack" />
     <MESSAGE value="arraylist implementation of stack" />
     <MESSAGE value="linked list implementation of stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list implementation of stack" />
+    <MESSAGE value="library implementation of stack using ArrayDeque" />
+    <option name="LAST_COMMIT_MESSAGE" value="library implementation of stack using ArrayDeque" />
   </component>
 </project>
