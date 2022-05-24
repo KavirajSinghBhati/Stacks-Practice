@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd04e123-8aaf-4942-a88c-0a16aa630a25" name="Changes" comment="two stacks in array efficient approach">
-      <change afterPath="$PROJECT_DIR$/src/practice/KStacks.java" afterDir="false" />
+    <list default="true" id="fd04e123-8aaf-4942-a88c-0a16aa630a25" name="Changes" comment="k stacks in array efficient approach">
+      <change afterPath="$PROJECT_DIR$/src/practice/StockSpanNaive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.KStacks">
+  <component name="RunManager" selected="Application.StockSpanNaive">
     <configuration name="BalancedParanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.BalancedParanthesis" />
       <module name="Stacks" />
@@ -63,9 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LibraryImplementation" />
+    <configuration name="StockSpanNaive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.StockSpanNaive" />
       <module name="Stacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StockSpanNaive" />
         <item itemvalue="Application.KStacks" />
         <item itemvalue="Application.TwoStacksInArrayEfficient" />
         <item itemvalue="Application.TwoStacksInArrayNaive" />
         <item itemvalue="Application.BalancedParanthesis" />
-        <item itemvalue="Application.LibraryImplementation" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653200639563</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="k stacks in array efficient approach">
+      <created>1653326072031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653326072031</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +199,7 @@
     <MESSAGE value="balanced parenthesis problem" />
     <MESSAGE value="two stacks in array naive approach" />
     <MESSAGE value="two stacks in array efficient approach" />
-    <option name="LAST_COMMIT_MESSAGE" value="two stacks in array efficient approach" />
+    <MESSAGE value="k stacks in array efficient approach" />
+    <option name="LAST_COMMIT_MESSAGE" value="k stacks in array efficient approach" />
   </component>
 </project>
